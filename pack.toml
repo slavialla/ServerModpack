@@ -1,0 +1,11 @@
+name = "Big"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3ffc024ffe6f730117adb1063a4f77afc9fe9562557c244b58c9cb55b4d7ef39"
+
+[versions]
+fabric = "0.17.3"
+minecraft = "1.20.1"
