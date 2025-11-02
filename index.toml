@@ -168,7 +168,9 @@ hash = "c40386376fc147c5ac73a3f8a125c2561f410bd7c6e13b8a61d99dc0e69d6176"
 file = "config/moonlight-common.json"
 hash = "7d520e83da5a29b267a49176cc39ce377891498a285b039e76a470242c7a02d8"
 
-
+[[files]]
+file = "config/notenoughanimations.json"
+hash = "254f67d1d2c394c8ba7a83faa5c3c349e39c73cc497f5dcc160c3ff671d3edcc"
 
 [[files]]
 file = "config/origins_server.json"
