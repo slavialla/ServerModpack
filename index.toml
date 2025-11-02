@@ -607,11 +607,6 @@ hash = "e7d4c5b45ed3680e55f7771176a96a12f4a487afc374b946f9955e4fd5585b9f"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "c2ad3d7ad9cad74d92f0d07dc156da21636cd54bd23de7c22529ec27c297d821"
-metafile = true
-
-[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "32e2d40c761d984e1832e63d53661bc7dde0feb305f033fd906a7f32dfcc9e53"
 metafile = true
